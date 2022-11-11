@@ -34,4 +34,37 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 3.1 Capítulo 2<br /><br />
 •	Sección 2.2 Carga eléctrica<br />
 <em>Aplicamos lo aprendido durante esta sección para resolver ejercicios con la formula y valores de una carga eléctrica.</em><br />
-1.	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+•	Sección 2.3 Voltaje, corriente y resistencia<br />
+<em>Usamos los aprendido y aplicamos las formulas dependiendo lo que pida en cada ejercicio.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+•	Sección 2.4 Fuentes de voltaje y de corriente<br />
+<em>Aplicamos lo aprendido sobre fuentes de voltaje y de corriente.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+•	Sección 2.5 Resistores<br />
+<em>Aplicamos lo aprendido sobre los resistores, como su lectura en bandas de colores, lectura del rotulado numérico y alfanumérico para las resistencias de 4 y 5 bandas.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+•	Sección 2.6 El circuito eléctrico<br />
+<em>Aplicamos la teoría revisada en esta sección y lo aplicamos de acuerdo a cada problema dado.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+•	Sección 2.7 Mediciones de circuitos básicos<br />
+<em>Aplicamos lo aprendido en el contenido de la manera en que se lee y se lo coloca para poder usar cada aparato para la medición.</em><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
