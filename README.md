@@ -7,4 +7,4 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 •	Conocer los conceptos básicos sobre voltaje, corriente y resistencia, así como cuales producen fuerza y energía que se proporciona al circuito, también que materiales impiden el paso de energía y cuales ayudan a medir los valores que cada elemento tiene.<br /><br />
 2. Marco teórico (Resumen)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Teoria%20Cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Teoria%20Cap%201.PNG)
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Teoria%20cap%202.jpg)
