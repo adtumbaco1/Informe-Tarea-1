@@ -20,14 +20,14 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
 •	Sección 1.3 Notación de ingeniería y prefijos métricos<br />
 <em>Para estos ejercicios aplicamos lo aprendido, en notación de ingeniería el entero puede tener hasta 3 números en su parte entera y su base de 10 con su exponente múltiplo de 3 y usamos los prefijos métricos de acuerdo al exponente que esté presente.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2013%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2015%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2017%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2019%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2021%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2023%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2025%20cap%201.PNG)<br /><br />
 •	Sección 1.4 Conversiones de unidades métricas<br />
 <em>Aplicamos los aprendido en conversiones de unidad, revisamos cuantos espacios decimales tiene que recorrer el punto decimal para poder hacer las conversiones o viceversa o nos fijamos en los prefijos métricos.</em><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2027%20cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
