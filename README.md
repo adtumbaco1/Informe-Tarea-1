@@ -17,4 +17,4 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%205%20cap%201.PNG)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%207%20cap%201.PNG)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%209%20cap%201.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Teoria%20Cap%201.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2011%20cap%201.PNG)<br /><br />
