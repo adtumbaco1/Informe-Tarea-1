@@ -63,7 +63,7 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2045%20cap%202.PNG)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2047%20cap%202.PNG)<br /><br />
 4. Video<br />
-
+https://youtu.be/dYTmqgq3Hh4
 5. Conclusiones <br />
 •	Tener los conocimientos básicos sobre la corriente, voltaje y resistencia, al igual que conocer sus fórmulas, no ayuda a la resolución de ejercicios o a calcular cuánto es la corriente que circula a través de cada elemento ayudándonos de los medidores dependiendo lo que se desee medir.<br />
 •	Conocer el uso o aplicación de la notación científica y/o notación de ingeniería y los prefijos métricos, ayuda mucho al momento de tener cantidades muy pequeñas o muy grandes para resolver con operaciones, usando los conceptos de cada uno permite una solución más rápida y fácil.<br />
