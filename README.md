@@ -11,4 +11,4 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 3. Problemas (IMPARES)<br />
 3.1 Capítulo 1<br /><br />
 •	Sección 1.2 Notación Científica<br />
-Para estos ejercicios aplicamos lo aprendido, en notación científica el entero solo puede ser un número del 1 al 9 y contamos cuantos espacios se mueve el punto decimal para así colocar la potencia de 10 con su respectivo exponente, ya sea positivo o negativo, dependiendo del lado al que se mueva.<br />
+<em>Para estos ejercicios aplicamos lo aprendido, en notación científica el entero solo puede ser un número del 1 al 9 y contamos cuantos espacios se mueve el punto decimal para así colocar la potencia de 10 con su respectivo exponente, ya sea positivo o negativo, dependiendo del lado al que se mueva.</em><br />
