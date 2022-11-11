@@ -31,3 +31,7 @@ Aprender sobre los conceptos básicos y cuando aplicarlos de acuerdo a las situa
 <em>Aplicamos los aprendido en conversiones de unidad, revisamos cuantos espacios decimales tiene que recorrer el punto decimal para poder hacer las conversiones o viceversa o nos fijamos en los prefijos métricos.</em><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2027%20cap%201.PNG)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-1/blob/main/Ejercicio%2029%20cap%201.PNG)<br /><br />
+3.1 Capítulo 2<br /><br />
+•	Sección 2.2 Carga eléctrica<br />
+<em>Aplicamos lo aprendido durante esta sección para resolver ejercicios con la formula y valores de una carga eléctrica.</em><br />
+1.	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?<br />
